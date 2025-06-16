@@ -15,6 +15,8 @@ In this study, I developed a classification model using **Support Vector Machine
 - Imbalanced data handling using SMOTE
 - SVM for multi-class classification
 - Cross-validation and performance metrics
+- Data Mining
+- Data Management
 
 ## 🏁 Results
 - Achieved **90.74% accuracy** using SVM + SMOTE + Shuffled Sampling
