@@ -1,6 +1,7 @@
 # 🎓 Thesis: Final Project Topic Recommendation System using SVM & SMOTE
 
 This repository contains the final thesis report of my undergraduate project at Universitas Muhammadiyah Yogyakarta.
+Note: For the complete version of this thesis, please refer to the PDF file included in this repository. Some sections in this README have been summarized or redacted for privacy purposes.
 
 ## 📌 Project Summary
 In this study, I developed a classification model using **Support Vector Machine (SVM)** combined with **SMOTE** to recommend appropriate thesis topics for students based on their academic history.
@@ -21,4 +22,6 @@ In this study, I developed a classification model using **Support Vector Machine
 ## 🙋‍♂️ Author
 **Geri Aria Rotama**  
 📍 Bantul, Yogyakarta  
-🔗 [LinkedIn](https://linkedin.com/in/gerry-aria-rotama)
+[LinkedIn](www.linkedin.com/in/geriariarotama)
+
+
